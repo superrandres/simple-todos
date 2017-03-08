@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+.meteor/local
+build
+dist
+npm-debug.log
+typings
+
